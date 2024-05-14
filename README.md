@@ -5,8 +5,7 @@ This is my portfolio website!
 
 # Data Portfolio: Excel to Power BI 
 
-
-![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
+![excel-to-powerbi-animated-diagram](assets/images/uk_youtubers_2024.png)
 
 
 
